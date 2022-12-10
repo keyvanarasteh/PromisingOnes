@@ -1,16 +1,33 @@
 # eksi_sozluk
 
-A new Flutter project.
+PromisingOnes Flutter Project.
 
-## Getting Started
+# Screenshots
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Mobile
+<p align="center">
+  <img width="300" height="600" src="https://github.com/keyvanarasteh/PromisingOnes/blob/main/application%20screenshots/mobil_%20g%C3%B6r%C3%BCn%C3%BCm_1.png">
+  <img width="300" height="600" src="https://github.com/keyvanarasteh/PromisingOnes/blob/main/application%20screenshots/mobil_%20g%C3%B6r%C3%BCn%C3%BCm_2.png">
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tablet
+<p align="center">
+  <img width="400" height="600" src="https://github.com/keyvanarasteh/PromisingOnes/blob/main/application%20screenshots/tablet_g%C3%B6r%C3%BCn%C3%BCm_1.png">
+  <img width="400" height="600" src="https://github.com/keyvanarasteh/PromisingOnes/blob/main/application%20screenshots/tablet_g%C3%B6r%C3%BCn%C3%BCm_2.png">
+</p>
+
+## Desktop
+<p align="center">
+  <img width="900" height="600" src="https://github.com/keyvanarasteh/PromisingOnes/blob/main/application%20screenshots/desktop_g%C3%B6r%C3%BCn%C3%BCm_1.png">
+  <br><br/>
+  <img width="900" height="600" src="https://github.com/keyvanarasteh/PromisingOnes/blob/main/application%20screenshots/desktop_g%C3%B6r%C3%BCn%C3%BCm_2.png">
+</p>
+
+## Large
+<p align="center">
+  <img width="1200" height="600" src="https://github.com/keyvanarasteh/PromisingOnes/blob/main/application%20screenshots/large_g%C3%B6r%C3%BCn%C3%BCm_1.png">
+  <br><br/>
+  <img width="1200" height="600" src="https://github.com/keyvanarasteh/PromisingOnes/blob/main/application%20screenshots/large_g%C3%B6r%C3%BCn%C3%BCm_2.png">
+</p>
